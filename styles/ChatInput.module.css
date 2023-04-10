@@ -1,0 +1,15 @@
+.chatInput {
+    display: flex;
+    align-items: center;
+}
+
+.chatInput input {
+    flex: 1;
+    margin-right: 5px;
+    padding: 5px;
+}
+
+.chatInput button {
+    padding: 5px;
+}
+  
